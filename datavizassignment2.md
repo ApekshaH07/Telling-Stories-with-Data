@@ -7,3 +7,6 @@
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7691691"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## Debt to GDP ratio - Designed visualization in Fluorish
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/7700348"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
