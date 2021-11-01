@@ -17,7 +17,7 @@ Keep an eye out for some exciting data visuals related to energy efficiency tren
 
 ## Assignment 1
 
-[## Assignment 2](/datavizassignment2.md)
+[Assignment 2](/datavizassignment2.md)
 
 
 ## Final Project
