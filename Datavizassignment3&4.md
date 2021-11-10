@@ -92,7 +92,7 @@ A key learning for me through this exercise was that different styles of visuali
 
 ## The Redesign
 
-Based on the feedback gathered, I decided to redesign two versions of the original graph both intended for a different set of audience. Option 2 below was intended toward appealing people interested in the data regarding percentage of fuel mix and would probably like to use these stats in their work or future references. In short, this option is conducive to somebody who is willing to spend more than a minute on this graph, trying to understand the trends of fuel usage across many years. Below is the redesigned version of option 2 using Fluorish.
+Based on the feedback gathered, I decided to redesign two versions of the original graph both intended for a different set of audience. Option 2 below was intended toward appealing people interested in the data regarding percentage of fuel mix and would probably like to use these stats in their work or future references. In short, this option is conducive to somebody who is willing to spend more than a minute on this graph, trying to understand the trends of fuel usage across many years. Below is the redesigned version of option 2 using Fluorish. The [excel sheet](/C:\Users\Apeksha Hudedagaddi\Desktop\CMU FALL 2021\Telling stories with Data) was edited to reflect the annual percentage fuel mix.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7774478"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -100,7 +100,7 @@ On the basis of the most received votes, I also redesigned option 3 using Fluori
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7774899"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-[Go back to main page](/
+[Go back to main page](/README.md)
 
 
 
