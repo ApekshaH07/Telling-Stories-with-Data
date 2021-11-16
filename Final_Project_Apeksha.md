@@ -51,7 +51,7 @@ I am still in the process of collating datasets for all the various steps as men
 
 
 
-## Medium
+## Methods & Medium
 I will use Shorthand for the final rendition of my story. The single-page view and ease of using it will give my entire story a better flow than something like PowerPoint slides. I hope to use interactive visualtizations and polls, and rich multimedia content like images, link to online footprint calculators or even short videos. A general progression towards completion of my final project is as below.
 
 a) Data Collection
@@ -69,4 +69,6 @@ Some other references (apart from the links mentioned in under 'Data) used in th
 https://grist.org/culture/cutting-your-carbon-footprint-matters-a-lot-if-youre-rich/
 https://www.nytimes.com/guides/year-of-living-better/how-to-reduce-your-carbon-footprint
 https://www.nytimes.com/interactive/2015/12/03/upshot/what-you-can-do-about-climate-change.html
+
+[**Back to main page**](/README.md)
 
