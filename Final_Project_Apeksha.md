@@ -1,42 +1,72 @@
 # Does your Carbon footprint matter?
 
-At this time, all of us are facing the consequences of climate change in one form or the other. A few of us are getting air conditioners installed at home to combat hotter summers and the others are stocking up on emergency supplies in anticipation of heavy flooding and harsh hurricanes. Our daily news feed is filled with the grand commitments made by leaders across the globe to combat climate change. However, a lot of actions which are being taken on a macro scale most certainly feel outside our zone of control. And to escape this feeling of helpnessness we are constantly looking for ways to reduce our individual carbon footprint either by buying sustainably sourced pants or shopping at a farmer's market. Activities / products labeled "green" or "sustainable" instatly gratify us in our journey of "mitigating climate change" at a perosnal level, in addition to being great content for our "holier than thou" social media posts. But do our individual actions or does our carbon foorprint actually matter? Can we bike or beyond burger our way out of climate change? 
+![Carbon footprint](https://user-images.githubusercontent.com/81335957/141875036-ee7a53b6-5276-458e-90ec-98fc8122eadb.jpg)
+[Pixabay](https://pixabay.com/illustrations/assistance-barefoot-carbon-990332/)
 
-In my dataviz story, I hope to throw some light on this hotly debated topic. I am passionate about living a low carbon lifestyle but it is often dishearteining when loads of research online or the "wise" people around me tell me that my actions will hardly make any difference. In my quest to find a befitting response, I have done some extensive reading on this topic, listened to interesting podcasts, participated in numerous discussions, all of which have helped me finally develop a healthy perspective. With my learnings on this topic, through this story, I hope to help all of you save a great deal of time and effort in coming up with your own story on why you stopped eating meat or drive only electric!
+## Why I chose this topic?
 
-![image](https://user-images.githubusercontent.com/81335957/141693052-b94b00ed-98d7-4340-84b2-1b7cb5b1510c.png)
+At this time, all of us are facing the consequences of climate change in one form or the other. A few of us are istalling air conditioners at home to combat hotter summers and the others are stocking up on emergency supplies in anticipation of heavy flooding and harsh hurricanes. Our daily news feed is filled with grand commitments made by leaders across the globe to combat climate change. However, a lot of actions which are being taken on a macro scale most often feel outside our zone of control. And to escape this feeling of helpnessness we are constantly looking for ways to reduce our individual carbon footprint either by buying sustainably sourced pants or shopping at a farmer's market. Activities / products labeled "green" or "sustainable" provide instant gratification in our journey of "mitigating climate change" at a perosnal level, in addition to being great content for our "holier than thou" social media posts. But do our individual actions or does our carbon foorprint actually matter? Can we bike or beyond burger our way out of climate change? 
 
-![carbonfootprint-slide-SUBX-jumbo](https://user-images.githubusercontent.com/81335957/141693806-c05f46c7-8b91-487d-a50b-492905c028a7.jpg)
-https://www.nytimes.com/guides/year-of-living-better/how-to-reduce-your-carbon-footprint
+In my dataviz story, I hope to throw some light on this hotly debated topic. I am passionate about living a low carbon lifestyle but it is often dishearteining when loads of research online or the "wise" people around me tell me that my actions will hardly make any difference. In my quest to find the befitting response, I have done some extensive reading on this topic, listened to interesting podcasts, participated in numerous discussions, all of which have helped me finally develop a healthy perspective. With my learnings on this topic, through this story, I hope to help all of you save a great deal of time and effort in coming up with your own story on why you stopped eating meat or drive only electric!
 
 ## Story outline & Sketches
+
 ### Step 1:
 My story begins with introduction of the definition of the term "carbon footprint" and launching a poll asking steps taken by the audience in their daily lives to combat climate change. I shall then provide information through visualizations reflecting the average per capita carbon emissions across the world and also provide links to a few popular online carbon footprint calculators to enable them calculate their personal carbon footprint. By incorporating these little activities, I hope to make my page interactive and avoid overloading the audience with just one way information.
-(Insert Sketch)
+
+![Step 1](https://user-images.githubusercontent.com/81335957/141875452-9aca6ace-b69e-423e-bd22-fccb2bba7d77.jpeg)
 
 ### Step 2:
 This section will contain information on the most popularly suggested actions across various reaserch papers to help individuals reduce their personal carbon footprint. I will also look for results from polls/interviews documenting the most commonly taken actions by people across the world and highlight them through appropriate visualizations and also incorporate results from people who took the poll on this page.
 
+![Step 2](https://user-images.githubusercontent.com/81335957/141875490-d9ce039d-b938-46ba-860c-769b16bcf03a.jpeg)
+
 ### Step 3:
 This section will contain information on carbon emissions generated by various sectors on a global scale and few tips on things you can do to reduce emissions on a personal level.
 
-
+![Step 3](https://user-images.githubusercontent.com/81335957/141875521-890c5cbe-848d-4754-98d4-1528eabb34f5.jpeg)
 
 ### Step 4:
 Here, the visualzation will be focussed on calculation of individal carbon footprint of an average person living in the United States compared to global carbon emissions. This section will give quantitive insights on whether our individual carbon footprint really matters?
 
-
+![Step 4](https://user-images.githubusercontent.com/81335957/141875540-6e98e3ad-4572-4439-a55c-7be7f98d06b0.jpeg)
 
 ### Step 5:
 After delving deeper mathematically into whether individual actions matter, I expect majority of the audience experiencing a feeling of helplessness and demotivated about their actions towards being more climate responsible. Hence, this section will focus on powerful visualizations communicating various ways on how individual actions can create ripple effects. Using a mix of borrowed observations across various resources and quantitative data, I hope to deliver a strong message on how along with individual actions it is also essential to work towards large systemic changes.
 
-
+![Step 5 6](https://user-images.githubusercontent.com/81335957/141875582-d6dab1d2-9d74-4c8f-8dd2-b66af32a9612.jpeg)
 
 ### Step 6
 This section will incorporate the final "Call to Action" empahsizing on various ways to drive large systemic changes along with focusing on personal carbon footprint.
 
 
 
-Data
+## Data
+I am still in the process of collating datasets for all the various steps as mentioned above. The data will be a mix of quantitative datasets published by reputed energy/climate related organizations and qualitative stories/case studies borrowed from various readings/podcasts especially for 'Steps 4 and 5'. I also plan to provide links to few popular carbon calculators in order to provide an engaging experience for anybody visiting the page. Lastly, in Step 6, in "Call to Action", I also plan to provide links to a few of my favorite podcasts/resources/online petitions to anybody who is interested in delving deeper and getting involved. A link to few of the datasets which will be used are as follows:
 
-Medium
+- **Global Per Capita Carbon Footprint**: https://ourworldindata.org/co2-emissions
+- **Personal Carbon Footprint Calculators** : https://netzeropledge.org/calculate-your-carbon-footprint/ (Will add atleast three credible options)
+- **Top Individual Actions** : https://www.un.org/actnow (Will collate data from atleast 5 resources and develop a visualization of the rankings)
+- **Global Greenhouse emissions across sectors** : https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data
+
+
+
+## Medium
+I will use Shorthand for the final rendition of my story. The single-page view and ease of using it will give my entire story a better flow than something like PowerPoint slides. I hope to use interactive visualtizations and polls, and rich multimedia content like images, link to online footprint calculators or even short videos. A general progression towards completion of my final project is as below.
+
+a) Data Collection
+b) Exploratory Data Analysis
+c) Development of Shorthand page with new visualizations
+d) Refining of story using text, color theory, story arc and references
+e) Test with two or three people, gather feedback
+f) Finalize
+
+
+## Insipiration & References
+This story is inspired by one of my favorite podcasts [How to save a planet?](https://gimletmedia.com/shows/howtosaveaplanet/xjh53gn). 
+
+Some other references (apart from the links mentioned in under 'Data) used in the framing of my initial thoughts are as below:
+https://grist.org/culture/cutting-your-carbon-footprint-matters-a-lot-if-youre-rich/
+https://www.nytimes.com/guides/year-of-living-better/how-to-reduce-your-carbon-footprint
+https://www.nytimes.com/interactive/2015/12/03/upshot/what-you-can-do-about-climate-change.html
+
