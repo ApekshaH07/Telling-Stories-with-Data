@@ -66,9 +66,9 @@ f) Finalize
 This story is inspired by one of my favorite podcasts [How to save a planet?](https://gimletmedia.com/shows/howtosaveaplanet/xjh53gn). 
 
 Some other references (apart from the links mentioned in under 'Data) used in the framing of my initial thoughts are as below:
-https://grist.org/culture/cutting-your-carbon-footprint-matters-a-lot-if-youre-rich/
-https://www.nytimes.com/guides/year-of-living-better/how-to-reduce-your-carbon-footprint
-https://www.nytimes.com/interactive/2015/12/03/upshot/what-you-can-do-about-climate-change.html
+- https://grist.org/culture/cutting-your-carbon-footprint-matters-a-lot-if-youre-rich/
+- https://www.nytimes.com/guides/year-of-living-better/how-to-reduce-your-carbon-footprint
+- https://www.nytimes.com/interactive/2015/12/03/upshot/what-you-can-do-about-climate-change.html
 
 [**Back to main page**](/README.md)
 
