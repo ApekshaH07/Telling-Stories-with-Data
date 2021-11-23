@@ -51,9 +51,9 @@ Q3) On a scale of 1-10, how much do you agree that your personal carbon footprin
     - Interviewee 3: World map! My only confusion with this one is: what do the numbers 1 and 2 mean towards the top of the graph right below the header?
      
    Q7)List a few things (1-3) you would like some clarity on?
-     -  Interviewee 1: References and Individual Carbon Footprint >/=/< Larger Systemic Changes?
-     -  Interviewee 2: Awaiting under construction/ coming soon sections
-     -  Interviewee 3: In the subtitle, "individual carbon footprint" is something we want to reduce, but "larger systemic changes" is something we want to implement.                 Comparing two opposing forces with the inequality sign is confusing. Like I'm not sure whether the inequality sign means "better than or worse than" or if it means           "makes a larger difference or makes a smaller difference" or if it means "is more important than or is less important than". A little ambiguous.
+     - Interviewee 1: References and Individual Carbon Footprint >/=/< Larger Systemic Changes?
+     - Interviewee 2: Awaiting under construction/ coming soon sections
+     - Interviewee 3: In the subtitle, "individual carbon footprint" is something we want to reduce, but "larger systemic changes" is something we want to implement.                Comparing two opposing forces with the inequality sign is confusing. Like I'm not sure whether the inequality sign means "better than or worse than" or if it means           "makes a larger difference or makes a smaller difference" or if it means "is more important than or is less important than". A little ambiguous.
       
     Q8)On a scale of 1-10, did you find the story interesting?
       - Interviewee 1: 7
@@ -77,5 +77,7 @@ Based on the comments received during the user researcg survey and the critique 
 - Edit the image under 'Improve Energy Efficiency' of homes.
 - Look for better pictures on Unsplash
 - Complete the latter sections.
+
+[Back to Main Page](
 
 
