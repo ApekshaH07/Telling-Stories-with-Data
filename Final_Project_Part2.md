@@ -19,4 +19,8 @@ b. Approach: In interviewed a few of my peers at school, family members and frie
 
 c. Interview Questions & Responses:
 
+|Questions|Interviewee 1|Interviewee 2|Interview 3|
+|On a scale of 1-10, how concerned are you about climate change?|8|9|7|
+|Do you know what the term 'Carbon Footprint' Means?|Yes|Yes|Yes
+
 ## Future Changes
