@@ -46,24 +46,24 @@ Q3) On a scale of 1-10, how much do you agree that your personal carbon footprin
   - Interviewee 3: Easy to read, Relevant pictures! And beautiful color balance.The ""make less babies"" makes a lot of sense but was surprising/amusing to read because of       its imperative tone ""Make your home energy efficient"".I would love to learn more about how to actually do this! Is it about conserving electricity? Not using gas           replacing light bulbs with efficient ones? Specific recommendations would be so cool"
   
   Q6)Which chart did you find the most interesting? Any suggestions on improvements?
-    - Interviewee 1: World map for emissions.
-    - Interviewee 2: Impact of your Carbon Footprint
-    - Interviewee 3: World map! My only confusion with this one is: what do the numbers 1 and 2 mean towards the top of the graph right below the header?
+   - Interviewee 1: World map for emissions.
+   - Interviewee 2: Impact of your Carbon Footprint
+   -  Interviewee 3: World map! My only confusion with this one is: what do the numbers 1 and 2 mean towards the top of the graph right below the header?
      
    Q7)List a few things (1-3) you would like some clarity on?
-     - Interviewee 1: References and Individual Carbon Footprint >/=/< Larger Systemic Changes?
-     - Interviewee 2: Awaiting under construction/ coming soon sections
-     - Interviewee 3: In the subtitle, "individual carbon footprint" is something we want to reduce, but "larger systemic changes" is something we want to implement.                Comparing two opposing forces with the inequality sign is confusing. Like I'm not sure whether the inequality sign means "better than or worse than" or if it means           "makes a larger difference or makes a smaller difference" or if it means "is more important than or is less important than". A little ambiguous.
+   - Interviewee 1: References and Individual Carbon Footprint >/=/< Larger Systemic Changes?
+   - Interviewee 2: Awaiting under construction/ coming soon sections
+   - Interviewee 3: In the subtitle, "individual carbon footprint" is something we want to reduce, but "larger systemic changes" is something we want to implement.                Comparing two opposing forces with the inequality sign is confusing. Like I'm not sure whether the inequality sign means "better than or worse than" or if it means           "makes a larger difference or makes a smaller difference" or if it means "is more important than or is less important than". A little ambiguous.
       
     Q8)On a scale of 1-10, did you find the story interesting?
-      - Interviewee 1: 7
-      - Interviewee 2: 8
-      - Interviewee 3: 9
+    - Interviewee 1: 7
+    - Interviewee 2: 8
+    - Interviewee 3: 9
        
     Q9)Any final thoughts/suggestions/improvements?
-      - Interviewee 1: Bike & Beyond Burger word association needs a little improvement.
-      - Interviewee 2: Great Attempt. Improve images and image placement, remove triple images (flood, climate conference farmers market).Try using two brands such as Tesla           and Beyond Burger instead or just a verb (bike) and the name of the brand.
-      - Interviewee 3: Just the graphic under "make your home energy efficient!":) This is simply because I don't understand what the letters A through G                             mean. Maybe crop that letter scale part out?
+    - Interviewee 1: Bike & Beyond Burger word association needs a little improvement.
+    - Interviewee 2: Great Attempt. Improve images and image placement, remove triple images (flood, climate conference farmers market).Try using two brands such as Tesla           and Beyond Burger instead or just a verb (bike) and the name of the brand.
+    - Interviewee 3: Just the graphic under "make your home energy efficient!":) This is simply because I don't understand what the letters A through G                             mean. Maybe crop that letter scale part out?
        
 ## Future Changes
 
@@ -78,6 +78,6 @@ Based on the comments received during the user researcg survey and the critique 
 - Look for better pictures on Unsplash
 - Complete the latter sections.
 
-[Back to Main Page](
+[**Back to main page**](/README.md)
 
 
