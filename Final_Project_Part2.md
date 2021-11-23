@@ -55,12 +55,12 @@ Q3) On a scale of 1-10, how much do you agree that your personal carbon footprin
    - Interviewee 2: Awaiting under construction/ coming soon sections
    - Interviewee 3: In the subtitle, "individual carbon footprint" is something we want to reduce, but "larger systemic changes" is something we want to implement.                Comparing two opposing forces with the inequality sign is confusing. Like I'm not sure whether the inequality sign means "better than or worse than" or if it means           "makes a larger difference or makes a smaller difference" or if it means "is more important than or is less important than". A little ambiguous.
       
-    Q8)On a scale of 1-10, did you find the story interesting?
+   Q8)On a scale of 1-10, did you find the story interesting?
     - Interviewee 1: 7
     - Interviewee 2: 8
     - Interviewee 3: 9
        
-    Q9)Any final thoughts/suggestions/improvements?
+   Q9)Any final thoughts/suggestions/improvements?
     - Interviewee 1: Bike & Beyond Burger word association needs a little improvement.
     - Interviewee 2: Great Attempt. Improve images and image placement, remove triple images (flood, climate conference farmers market).Try using two brands such as Tesla           and Beyond Burger instead or just a verb (bike) and the name of the brand.
     - Interviewee 3: Just the graphic under "make your home energy efficient!":) This is simply because I don't understand what the letters A through G                             mean. Maybe crop that letter scale part out?
