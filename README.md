@@ -22,3 +22,5 @@ Keep an eye out for some exciting data visuals related to energy efficiency tren
 ## [Assignment 3 & 4](/Datavizassignment3&4.md)
 
 ## [Final Project Part 1](/Final_Project_Apeksha.md)
+
+##[Final Project Part 2](/Final_Project_Part2.md)
