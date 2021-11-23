@@ -19,9 +19,9 @@ b. Approach: In interviewed a few of my peers at school, family members and frie
 
 c. Interview Questions & Responses:
 
-Interviewee 1 : Female, Age:28, South Asian.
-Interviewee 2: Male, Age:33, Asian.
-Interviewee 3: Female, Age:24, South Asian
+-Interviewee 1 : Female, Age:28, South Asian.
+-Interviewee 2: Male, Age:33, Asian.
+-Interviewee 3: Female, Age:24, South Asian
 
 Q1) On a scale of 1-10, how concerned are you about climate change?
     Interviewee 1: 8
