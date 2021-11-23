@@ -13,13 +13,13 @@ Based on external research of already published similar stories, I developed the
 
 ## User Research
 
-### a.Target audiences: Any person above who is curious about their individual carbon footprint and wants to know how to contribute towards mitigating climate change.
+ **a.Target audiences: Any person above who is curious about their individual carbon footprint and wants to know how to contribute towards mitigating climate change.**
 
-### b. Approach: In interviewed a few of my peers at school, family members and friends to understand their whether they found this story impactful.
+ **b. Approach: In interviewed a few of my peers at school, family members and friends to understand their whether they found this story impactful.**
 
-### c. Interview Questions & Responses:
-
-#### Interviewee Demographics
+ **c. Interview Questions & Responses**
+ 
+  **Interviewee Demographics**
 - Interviewee 1 : Female, Age:28, South Asian.
 - Interviewee 2: Male, Age:33, Asian.
 - Interviewee 3: Female, Age:24, South Asian
