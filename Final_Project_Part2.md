@@ -26,10 +26,12 @@ Q1) On a scale of 1-10, how concerned are you about climate change?
    - Interviewee 1: 8
    - Interviewee 2: 9
    - Interviewee 3: 7
+   
 Q2) Do you know what the term 'Carbon Footprint' Means?
    - Interviewee 1: Yes
    - Interviewee 2: Yes
    - Interviewee 3: Yes
+   
 Q3) On a scale of 1-10, how much do you agree that your personal carbon footprint     matters in mitigating climate change?
    - Interviewee 1: 9
    - Interviewee 2: 7
