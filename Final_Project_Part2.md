@@ -13,9 +13,9 @@ Based on external research of already published similar stories, I developed the
 
 ## User Research
 
- **a.Target audiences: Any person above who is curious about their individual carbon footprint and wants to know how to contribute towards mitigating climate change.**
+ **a.Target audiences: Any person who is curious about their individual carbon footprint and wants to know how to contribute towards mitigating climate change.**
 
- **b. Approach: In interviewed a few of my peers at school, family members and friends to understand their whether they found this story impactful.**
+ **b. Approach: I interviewed a few of my peers at school, family members and friends to understand their whether they found this story impactful.**
 
  **c. Interview Questions & Responses**
  
@@ -73,9 +73,9 @@ Q3) On a scale of 1-10, how much do you agree that your personal carbon footprin
 
 Based on the comments received during the user researcg survey and the critique sessions in the class, I will be making the following changes in my final version.
 
-- Almost all the users liked the catchy title. However, most suggested to either   use both brands such as Tesla or Beyond burger or use just one to provide in     depth clarity. I will conduct some some surveys and try to make the title less   confusing.
+- Almost all the users liked the catchy title. However, most suggested to either use both brands such as Tesla or Beyond burger or use just one to provide in depth clarity. I will conduct some some surveys and try to make the title less confusing.
 - Almost all the responses recommended an improvment in the subtitle.
-- Put the carbon foot print calculator sections and the calculate your impact       sections together. In sum, group the activity sections together.
+- Put the carbon foot print calculator sections and the calculate your impact sections together. In sum, group the activity sections together.
 - Shorten the title of my charts.
 - Add a few recommendations on individual actions?
 - Edit the image under 'Improve Energy Efficiency' of homes.
