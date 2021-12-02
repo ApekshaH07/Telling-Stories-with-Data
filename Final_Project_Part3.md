@@ -28,10 +28,11 @@ I greatly benefitted from the feedback received during the user research phase o
 - Based on the advice of my peers in class, I explored for high resolution, good quality images on Unsplash.
 - As suggested by Prof. Goranson, I developed a distinct 'Call to Action' for systemic policy based changes.
 
-View my final story on my personal website here
+### View my final story on [Shorthand](https://carnegiemellon.shorthandstories.com/can-we-bike-our-way-out-of-climate-change/index.html)
 
-## References
+**Go to [Part 1]**
+**Go to [Part 2]**
+**Go to [Main Page]**
 
-Back to Final Project Part 2
 
-Back to main page
+
