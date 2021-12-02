@@ -71,7 +71,7 @@ Q3) On a scale of 1-10, how much do you agree that your personal carbon footprin
        
 ## Future Changes
 
-Based on the comments received during the user researcg survey and the critique sessions in the class, I will be making the following changes in my final version.
+Based on the comments received during the user research survey and the critique sessions in the class, I will be making the following changes in my final version.
 
 - Almost all the users liked the catchy title. However, most suggested to either use both brands such as Tesla or Beyond burger or use just one to provide in depth clarity. I will conduct some some surveys and try to make the title less confusing.
 - Almost all the responses recommended an improvment in the subtitle.
