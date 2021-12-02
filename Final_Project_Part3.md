@@ -30,9 +30,11 @@ I greatly benefitted from the feedback received during the user research phase o
 
 ### View my final story on [Shorthand](https://carnegiemellon.shorthandstories.com/can-we-bike-our-way-out-of-climate-change/index.html)
 
-**Go to [Part 1]**
-**Go to [Part 2]**
-**Go to [Main Page]**
+**Go to [Part 1](/Final_Project_Part1.md)**
+
+**Go to [Part 2](/Final_Project_Part2.md)**
+
+**Go to [Main Page](/README.md)**
 
 
 
