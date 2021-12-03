@@ -101,7 +101,7 @@ On the basis of the most received votes, I also redesigned option 3 using Fluori
 <div class="flourish-embed flourish-chart" data-src="visualisation/7774899"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-**[Go back to main page](/Apeksha_dataviz.md)**
+**[Go back to main page](/README.md)**
 
 
 
