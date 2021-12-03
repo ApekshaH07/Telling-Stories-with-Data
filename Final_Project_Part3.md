@@ -35,7 +35,7 @@ I greatly benefitted from the feedback received during the user research phase o
 
 **Go to [Part 2](/Final_Project_Part2.md)**
 
-**Go to [Main Page](/Apeksha_dataviz.md)**
+**Go to [Main Page](/README.md)**
 
 
 
