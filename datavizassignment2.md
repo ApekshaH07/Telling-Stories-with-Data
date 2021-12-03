@@ -18,4 +18,4 @@ The second visualization gives us a clear insight into how each country is perfo
 
 With the aim of addressing the issues in the top two visualtions , specifically colour and comparison among countries of interest, I created the thirs visualisation in Fluorish using scatter plots. The use of scatter plots help us clearly identify the performance of a country as compared to other countries each year or its performance over the number of years. Since, I was interested in observing the trends of the top 5 countries with the highest debt ratio in the previous years, I used colours to highlight those countries and colored the other countries grey. In addition, since the abbreviations of each country are sometimes not intuitive, I changed the abbreviation to full names for the countries of my interest. I feel that this form of visualization is effective in conveying the key message which is the trends of the top 5 worst performing countries in 2020 as well giving the readers flexibility in easily identifying the best performing countries over the years.
 
-[Go back to main page](/Apeksha_dataviz.md)
+[Go back to main page](/README.md)
