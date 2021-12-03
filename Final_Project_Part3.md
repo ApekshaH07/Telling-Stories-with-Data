@@ -18,6 +18,7 @@ Source: Pixabay
  - Shorthand : This tool is primarily the skeleton of my final story. This was used to host my final website.
 
 ## Learnings from User Research
+
 I greatly benefitted from the feedback received during the user research phase of Final Project Part 2, the critique discussions in the classroom and the feedback from the TA and the Prof. Goranson. Based on their comments , I made the following key changes in Part 3.
 
 - Almost all the interviewees had appreciated the catchy title. However, most of them recommended the use of just one verb/noun and hence I deleted the noun'Beyond Burger' from my title.
@@ -34,7 +35,7 @@ I greatly benefitted from the feedback received during the user research phase o
 
 **Go to [Part 2](/Final_Project_Part2.md)**
 
-**Go to [Main Page](/README.md)**
+**Go to [Main Page](/Apeksha_dataviz.md)**
 
 
 
