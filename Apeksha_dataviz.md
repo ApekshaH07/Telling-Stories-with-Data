@@ -31,6 +31,6 @@ Get a [glimpse](/Datavizassignment3&4.md) as I learn crtiquing methods, developi
 
 
 ## Final Project
-Click [here](/Final_Project_Part3.md) to view my thoughts and reflections as I developed my final project and view my [Shorthand Story](https://carnegiemellon.shorthandstories.com/can-we-bike-our-way-out-of-climate-change/index.html) to learn if your individual carbon footprint matters?
+Click [here](/Final_Project_Part3.md) to view my thoughts and reflections as I developed my final project and view my [Shorthand Story](https://carnegiemellon.shorthandstories.com/can-we-bike-our-way-out-of-climate-change/index.html) to learn if your personal carbon footprint matters?
 
 
