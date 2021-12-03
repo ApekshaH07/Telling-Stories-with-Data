@@ -82,7 +82,7 @@ Based on the comments received during the user research survey and the critique 
 - Look for better pictures on Unsplash
 - Complete the latter sections.
 
-[**Go to Part 1**](/Final_Project_Part1)
+[**Go to Part 1**](/Final_Project_Part1.md)
 
 [**Go to Main page**](/Apeksha_dataviz.md)
 
