@@ -12,19 +12,25 @@ As an energy efficiency specialist , I can see myself interacting with various i
 # Portfolio
 Keep scrolling through to see a few interesting visualizations and stories developed as a part of this course.
 
-## Assignment 1
+## Project 1
 
 ### Annual Energy and Water Consumption at SFO Airport
 <div class="flourish-embed flourish-chart" data-src="visualisation/7644550"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## [Assignment 2](/datavizassignment2.md)
+## Project 2
+[View](/datavizassignment2.md) my visualizations of government debt-to-GDP ratios of the OECD countries.
 
-## [Assignment 3 & 4](/Datavizassignment3&4.md)
+## Project 3
+Get a [glimpse](/Datavizassignment3&4.md) as I learn crtiquing methods, developing wireframes and redesigning of existing data vizualizations.
 
-## [Final Project Part 1](/Final_Project_Apeksha.md)
+## Project 4
+[Follow](/Final_Project_Apeksha.md) me as I develop my idea for my final project
 
-## [Final Project Part 2](/Final_Project_Part2.md)
+## Project 5
+[Learn](/Final_Project_Part2.md) about my storyboarding process and moodboard development for my final project.
 
-## [Final Project Part 3](/Final_Project_Part3.md)
 
-## [Shorthand Story](https://carnegiemellon.shorthandstories.com/can-we-bike-our-way-out-of-climate-change/index.html)
+## Final Project
+Click [here](/Final_Project_Part3.md) to view my thoughts and reflections as I developed my final project and view my [Shorthand Story](https://carnegiemellon.shorthandstories.com/can-we-bike-our-way-out-of-climate-change/index.html) to learn if your individual carbon footprint matters?
+
+
