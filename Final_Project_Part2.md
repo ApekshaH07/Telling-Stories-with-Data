@@ -4,7 +4,7 @@
 ## Part 2 Storyboard
 After developing the story outline and wireframes in part 1, I tried to incorporate the same while developing a prelimnary version in Shorthand.
 
-Below is the link to my [Shorthand story](https://preview.shorthand.com/o74YvxzfOPJjhCiZ?_gl=1*1nasiiq*_gcl_aw*R0NMLjE2Mzc2ODg0ODcuQ2p3S0NBaUF2X0tNQmhBekVpd0FzLXJYMUFlSXNzM1gweHV1VzZSVS10dlBHNVJPRkY0MlBXYmZ3ejI4TUJuY1lTN2M5TDFlbDN2ektSb0M1dFlRQXZEX0J3RQ..)
+Here is my [Shorthand story](https://preview.shorthand.com/o74YvxzfOPJjhCiZ?_gl=1*1nasiiq*_gcl_aw*R0NMLjE2Mzc2ODg0ODcuQ2p3S0NBaUF2X0tNQmhBekVpd0FzLXJYMUFlSXNzM1gweHV1VzZSVS10dlBHNVJPRkY0MlBXYmZ3ejI4TUJuY1lTN2M5TDFlbDN2ektSb0M1dFlRQXZEX0J3RQ..)
 
 ## Moodboard
 Based on external research of already published similar stories, I developed the below moodboard to get a perspective of the colors and graphics to be used in my final story.
