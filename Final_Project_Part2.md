@@ -84,6 +84,6 @@ Based on the comments received during the user research survey and the critique 
 
 [**Go to Part 1**](/Final_Project_Part1.md)
 
-[**Go to Main page**](/Apeksha_dataviz.md)
+[**Go to Main page**](/README.md)
 
 
