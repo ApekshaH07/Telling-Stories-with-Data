@@ -12,12 +12,10 @@ As an energy efficiency specialist , I can see myself interacting with various i
 # Portfolio
 Keep scrolling through to see a few interesting visualizations and stories developed as a part of this course.
 
-## First graph using Fluorish.
+## Assignment 1
 
 ### Annual Energy and Water Consumption at SFO Airport
 <div class="flourish-embed flourish-chart" data-src="visualisation/7644550"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-## Assignment 1
 
 ## [Assignment 2](/datavizassignment2.md)
 
