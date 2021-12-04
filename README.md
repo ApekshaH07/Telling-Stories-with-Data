@@ -6,8 +6,8 @@ Here, you will find a glimpse of all the dataviz skills I picked up from this co
 # About me
 I am final semester Civil & Environmental Engineering student at Carnegie Mellon University specialising in energy efficient and sustainable design and construction. I am extremely passionate about helping people identify opportunities to reduce energy and water consumption in their buildings and transition towards low carbon buildings. I love to geek out on topics related to building electrification, greening the electricity grid and renewable energy generation & storage.
 
-## What I hope to learn.
-As an energy efficiency specialist , I can see myself interacting with various internal/external stakeholders trying to convey the importance of transitioning towards low carbon buildings on a daily basis. And the key to conveying my message effectively is effective data visuals! In the span of the next few weeks, I hope to learn the tips and tricks to create impactful and visually appealing data visualisations which will help me succeed in my job .
+## My Takeaways.
+As an energy efficiency specialist , I see myself interacting with various internal/external stakeholders trying to convey the importance of transitioning towards low carbon buildings on a daily basis. And the key to conveying my message effectively is effective data visuals! Throughout the duration of this course, I learnt the tips and tricks to create impactful and visually appealing data visualisations which will help me succeed in my job .
 
 # Portfolio
 Keep scrolling through to see a few interesting visualizations and stories developed as a part of this course.
