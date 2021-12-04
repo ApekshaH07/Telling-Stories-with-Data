@@ -24,7 +24,7 @@ Keep scrolling through to see a few interesting visualizations and stories devel
 Get a [glimpse](/Datavizassignment3&4.md) as I learn crtiquing methods, developing wireframes and redesigning of existing data vizualizations.
 
 ## Project 4
-[Follow](/Final_Project_Apeksha.md) me as I develop my idea for my final project
+[Follow](/Final_Project_Part1.md) me as I develop my idea for my final project.
 
 ## Project 5
 [Learn](/Final_Project_Part2.md) about my storyboarding process and moodboard development for my final project.
